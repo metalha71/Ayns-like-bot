@@ -1,2 +1,0 @@
-# Ayns-like-bot
-Talhalikebot
